@@ -1,0 +1,13 @@
+12
+Cristiano Ronaldo,5021985777,cristianoronaldo@gmail.com
+Mohanlal,9900708022,thecompleteactor@gmail.com
+Alia Bhatt,8987654321,aliabhatt@gmail.com
+Leonardo DiCaprio,1112223333,leonardo@hollywood.com
+Scarlett Johansson,4445556666,scarlett@marvel.com
+Chris Evans,7778889999,chrisevans@gmail.com
+Emma Watson,6665554444,emmawatson@gmail.com
+Robert Downey Jr,3334445555,rdj@marvel.com
+Shah Rukh Khan,2223334444,kingkhan@gmail.com
+Lewis Hamilton,5556667777,lewisamg@formula.com
+Tom Holland,8889990000,tomholland@gmail.com
+Rowan Atkinson,3802871955,mrbean@gmail.com
